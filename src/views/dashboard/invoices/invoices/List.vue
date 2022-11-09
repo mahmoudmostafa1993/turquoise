@@ -41,6 +41,7 @@
           </v-chip>
         </template>
         <template v-slot:[`item.actions`]="{}">
+
           <v-tooltip
             bottom
           >
