@@ -1,0 +1,124 @@
+{
+    "login": {
+        "userName": "أسم المستخدم",
+        "password": "كلمة المرور",
+        "login": "تسجيل دخول",
+        "currentPassword": "كلمة المرور الحالية",
+        "newPassword": "كلمة المرور الجديدة"
+    },
+    "lang": {
+        "ar": "عربى",
+        "en": "English"
+    },
+    "navbar": {
+        "welcome": "أهلا بك",
+        "selectLang": "اختر لغة",
+        "logout": "تسجيل خروج ",
+        "changePassword": " تغيير كلمة السر"
+    },
+    "auth": {
+        "NotAuthorized": "قف هنا",
+        "YouAreNotAuthorizedToViewThisPage": "لا تملك الصلاحيات لتصفح هذه الصفحة!",
+        "auth&users": "الصلاحيات & المستخدمين",
+        "users": "المستخدمين",
+        "role": "المناصب",
+        "Permissions": "التصاريح"
+    },
+    "sidbar": {
+        "company": "تركواز",
+        "statistics": "إحصائيات",
+        "mainStock": "المخزون الرئيسي",
+        "stockList": "قائمة المخزون",
+        "transfer": "التحويل",
+        "Sales": "المبيعات",
+        "salesList": "قائمة المبيعات",
+        "return": "إرجاع",
+        "saveBox": "صندوق حفظ",
+        "saveBoxList": "قائمة صناديق الحفظ",
+        "saveBoxAction": "اجراءات صناديق الحفظ",
+        "clients": "العملاء",
+        "clientsList": "قائمة العملاء",
+        "clientReport": "تقرير العميل",
+        "invoices": "الفواتير",
+        "invoicesList": "قائمة الفواتير",
+        "settings": "الإعدادات",
+        "categries": "الفئات",
+        "stones": "الأحجار",
+        "branches": "الفروع",
+        "users": "المستخدمون",
+        "options": "الخيارات",
+        "resallers": "الموزعين",
+        "reports": "التقارير",
+        "stockListReports": "تقارير قائمة المخزون",
+        "salesListReports": "تقارير قائمة المبيعات",
+        "saveBoxReports": " تقارير صناديق الحفظ",
+        "transferReports": "تقارير التحويلات",
+        "resallerReports": "تقارير الموزع"
+    },
+    "actions": {
+        "actions": "أجراءات",
+        "edit": "تعديل",
+        "add": "اضف جديد",
+        "delete": "حذف",
+        "save": "حفظ",
+        "close": "إغلاق",
+        "noData": "لا توجد بيانات الآن",
+        "deleteConfirmation": "تأكيد الحذف",
+        "areYouSureDelete": "هل أنت متأكد من حذف",
+        "?": "؟",
+        "changeStatus": "تغيير الحالة",
+        "changeStatusConfirmation": "تأكيد تغيير الحالة",
+        "areYouSureChangeStatus": "هل أنت متأكد من تغيير الحالة لـ"
+    },
+    "statistics": {
+        "addNewSale": "أضف تخفيض جديد",
+        "addNewItem": "إضافة عنصر جديد",
+        "addNewStone": "أضف حجر جديد",
+        "addNewCategory": "إضافة فئة جديدة",
+        "addNewTransfer": "عمل تحويل جديد",
+        "pendingTransfer": "تحويلات معلقه",
+        "manageBranches": "إدارة الفروع"
+    },
+    "settings": {
+        "id": "ID",
+        "categories": "الفئات",
+        "branches": "الفروع",
+        "stones": "الحجارة",
+        "employees": "الموظفين",
+        "category": {
+            "categoryName": "اسم الفئة",
+            "code": "كود",
+            "addCategory": "إضافة فئة جديدة",
+            "editCategory": "تعديل الفئة"
+        },
+        "branch": {
+            "branchName": "اسم الفرع",
+            "city": "المدينة",
+            "address": "العنوان",
+            "manager": "مدير الفرع",
+            "employees": "الموظفين",
+            "phone": "رقم الهاتف",
+            "addBranch": "إضافة فرع جديد",
+            "editBranch": "تعديل الفرع"
+        },
+        "stone": {
+            "stoneName": "اسم الحجر",
+            "code": "كود",
+            "cost": "تكلفه",
+            "price": "السعر",
+            "setting": "إعدادات",
+            "addStone": "إضافة حجر جديد",
+            "editStone": "تعديل الحجر"
+        },
+        "employee": {
+            "employeeName": "اسم الموظف",
+            "role": "منصب",
+            "status": "الحالة",
+            "email": "البريد الإلكتروني",
+            "phone": "رقم الهاتف",
+            "password": "كلمة المرور",
+            "addEmployee": "إضافة موظف جديد",
+            "editEmployee": "تعديل الموظف"
+        }
+    }
+}

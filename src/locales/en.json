@@ -1,0 +1,135 @@
+{
+    "login": {
+        "userName": "User Name",
+        "password": "Password",
+        "login": "Login",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password"
+    },
+    "lang": {
+        "ar": "عربى",
+        "en": "English"
+    },
+    "navbar": {
+        "welcome": "Welcome",
+        "selectLang": "Select Language",
+        "logout": "Logout ",
+        "changePassword": "Change Password "
+    },
+    "auth": {
+        "NotAuthorized": "STOP HERE",
+        "YouAreNotAuthorizedToViewThisPage": "You Are Not Authorized To View This Page!",
+        "auth&users": " Users & Auth",
+        "users": "Users",
+        "role": "Roles",
+        "Permissions": "Permissions"
+    },
+    "sidbar": {
+        "company": "Turquoise",
+        "statistics": "Dashboard",
+        "mainStock": "Main Stock",
+        "stockList": "Stock List",
+        "transfer": "Transfer",
+        "sales": "Sales",
+        "salesList": "Sales List",
+        "return": "Return",
+        "saveBox": "Save Box",
+        "saveBoxList": "Save Box List",
+        "saveBoxAction": "Save Box Action",
+        "clients": "Clients",
+        "clientsList": "Clients List",
+        "clientReport": "client Report",
+        "invoices": "Invoices",
+        "invoicesList": "Invoices List",
+        "settings": "Settings",
+        "categries": "Categries",
+        "stones": "Stones",
+        "branches": "Branches",
+        "users": "Users",
+        "options": "Options",
+        "resallers": "Ressallers",
+        "reports": "Reports",
+        "stockListReports": "Stock List Reports",
+        "salesListReports": "Sales List Reports",
+        "saveBoxReports": "Save Box Reports",
+        "transferReports": "Transfers Reports",
+        "resallerReports": "Resaller Reports"
+    },
+    "actions": {
+        "actions": "Actions",
+        "edit": "Edit",
+        "add": "Add New",
+        "delete": "Delete",
+        "save": "Save",
+        "close": "Close",
+        "view": "View",
+        "print": "Print",
+        "noData": "No Data Now",
+        "deleteConfirmation": "Delete Confirmation",
+        "areYouSureDelete": "Are You Sure Delete",
+        "?": "?",
+        "changeStatus": "Change Status",
+        "changeStatusConfirmation": "Change Status Confirmation",
+        "areYouSureChangeStatus": "Are You Sure Change Status For"
+    },
+    "statistics": {
+        "addNewSale": "Add New Sale",
+        "addNewItem": "Add New Item",
+        "addNewStone": "Add New Stone",
+        "addNewCategory": "Add New Category",
+        "addNewTransfer": "Make New Transfer",
+        "pendingTransfer": "Pending Transfer",
+        "manageBranches": "Manage Branches"
+    },
+    "settings": {
+        "id": "ID",
+        "categories": "Categries",
+        "branches": "Branches",
+        "stones": "Stones",
+        "employees": "Employees",
+        "category": {
+            "categoryName": "Category Name",
+            "code": "Code",
+            "addCategory": "Add New Category",
+            "editCategory": "Edit Category"
+        },
+        "branch": {
+            "branchName": "Branch Name",
+            "city": "City",
+            "address": "Address",
+            "manager": "Branch Manager",
+            "employees": "Employees",
+            "phone": "Phone",
+            "addBranch": "Add New Branch",
+            "editBranch": "Edit Branch"
+        },
+        "stone": {
+            "stoneName": "Stone Name",
+            "code": "Code",
+            "cost": "Cost",
+            "price": "Price",
+            "setting": "Setting",
+            "addStone": "Add New Stone",
+            "editStone": "Edit Stone"
+        },
+        "employee": {
+            "employeeName": "Employee Name",
+            "role": "Role",
+            "status": "Status",
+            "email": "Email",
+            "phone": "Phone",
+            "password": "Password",
+            "addEmployee": "Add New Employee",
+            "editEmployee": "Edit Employee"
+        }
+    },
+    "invoices": {
+      "invoices": "Invoices",
+      "id": "ID",
+      "date": "Date",
+      "invoiceNumber": "Invoice Number",
+      "clientName": "Client Name",
+      "invoiceTotal": "Invoice Total",
+      "paymentStatus": "Payment Status"
+    }
+}
